@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "openprocedures-amba",
+  "private_key_id": "9d8238b4597b44c5a087b6a637c2314a5ce2c685",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCmApvaFAzKLupA\ngOrZfuZvwz5vExZpeUGJqSgsL4AmLYHy2HJOiwinm+HGOMVwHMyH9JHKBEKBC+uu\nSJNum6nrAW4juTRYPkOOP5rD9PoxwvSKP+JYRXKYqoPuzI97+IQjJca4FbppmGBs\nZXSODzJNpIj7ERLBp9PoDWfjXrS/AuwxQ3LStgwlbAclvMW1jHC9+NAYzkherVcy\nR9eHmSSWrPj2fob+YK/4jdxsepAZii/erfWWSJQ40uK6bLAqJHZmZw7IwHMyPdVU\n5CBqp6ZiHCfHM8qWiYunExTryTAHE9MrX8IBPY7F3Fq/ZWznLyoDQ/vHBML2pVng\nIjgToQazAgMBAAECggEAJ6mz5tSngZ7X5PVoJvLEx6sUPaGH10dbOzKpIHVw3q48\nv/KqzM03EiSSOrPRqEmZLFpogqWl5gMdGhTI9MJIRJeg4vQa54JozZGwvmTHaiA0\nINvGjmR5TrRetS02kt37ZBJgehbm5Ne9IejTgiVrVVWcTK/1lUMtw+GAErjL4l7D\ny9mlGlbU6/VG4+lUM6wDYsAPbQl2sxEAXEqodlp2uGRD6lbPaeMKgJn+aUL+CSnd\nW7BEd3NChdveP9puWvR8RKc1ksXLwAqTrTLYg0a8Le5PSlWQB8Dvw1kBkCV/qDzL\n/bP6D8Yd2IiY028WOe7rNsZS1Iik+1a3PqwDWKtCoQKBgQDW4f88SeFpDbP6dXfh\nSCApFQDAUNVJ+TmUCSyTzg8dWsX2z6Xkk3aykOtaABCCJaJ5oTIWddF+mfzgjyKR\nAvqhc7NoeR+4FYd4+OYDJEbD7Y5/M2HdxBewV2qvolJwq/n6gav04hKxudB9apwu\nRPfgP9tG9mdSXh2la0VTkYqmqQKBgQDFxpgR+jLrksMFxQeDuGXrReZ3e/c7eCDQ\ng2eBkxpPpe3OBQ5toVFP6PvTj83lVo84Uuhllue7lPy45TRfnNVI+lyiUnNFVU8R\nxtgfdrhD2sMiTheJANyHTY1v1HMfASvkdYPvETwaHjg/XLNf5408IgO9CoAupG/9\nF0IHtrkH+wKBgA5tPeWeUDPtZ5f5KwNFBGO9tT80Lh25TdRSiVujCgC+h2v6pPij\nreRvNl3kgzc5r57a47H+VwJY9FFfSsLRoGIWkoUBHNAPIflNPKQZW2bsHBUOLhPl\nhnGgbNk93KsT4MSg0Bqw0vB7uTOyZKn2l23G28H36Rfuma7xdMYXj2eBAoGBAKxS\n6MepOFr4SoMpdO25atx/0FrFodqoRfdIt5Q4J1HE4xqCX1r4l0/IUju5bg5oyGus\nGaACx7EzFKzJ0UOJ9HEc7D/nFVcRCM8VcdSgbdd5slKetnUCUiR2V0lcVF5sd+Ec\n37MbUkHzmNDkpcpniDEf9h/uGVgKoSVl8XulIz2nAoGBALRHiUEb3s69TjLpwJDp\nf9YVJsmWl2iZoHmxhJxSMP982HpfTZCBLzvl91zCdNZqg42HexmVzvBSSUq1uMVt\ntGin52A6cIfH+UzGOqMOYjEbJPkHwKaDlqEnd3TXou56dZUH5PgzwcKUFkihxVOe\n2dYYmusIEPN+d1r0QwoL2553\n-----END PRIVATE KEY-----\n",
+  "client_email": "amba-sop@openprocedures-amba.iam.gserviceaccount.com",
+  "client_id": "110577494314072144048",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/amba-sop%40openprocedures-amba.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
