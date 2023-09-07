@@ -3,10 +3,13 @@ from datetime import datetime
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
+import pytz
 
+# Set timezone to Central Time
+central = pytz.timezone('America/Chicago')
+current_date_time_central = datetime.now(central).strftime('%A, %m-%d-%y, %I:%M %p')
 
-current_date_time = datetime.now().strftime('%A, %m-%d-%Y, %I:%M %p')
-st.write(f"Current Date and Time: {current_date_time}")
+st.write(f" {current_date_time_central}")
 
 
 # Authenticate and connect to Google Drive
