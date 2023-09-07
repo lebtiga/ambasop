@@ -5,8 +5,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 from datetime import datetime
 
 
-current_day_and_date = datetime.now().strftime('%A, %Y-%m-%d')
-st.write(f"Today's Date: {current_day_and_date}")
+current_date_time = datetime.now().strftime('%A, %m-%d-%Y, %I:%M %p')
+st.write(f"Current Date and Time: {current_date_time}")
+
 
 # Authenticate and connect to Google Drive
 def authenticate_gdrive():
