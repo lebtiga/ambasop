@@ -2,6 +2,11 @@ import streamlit as st
 from datetime import datetime
 import gspread
 from oauth2client.service_account import ServiceAccountCredentials
+from datetime import datetime
+
+
+current_day_and_date = datetime.now().strftime('%A, %Y-%m-%d')
+st.write(f"Today's Date: {current_day_and_date}")
 
 # Authenticate and connect to Google Drive
 def authenticate_gdrive():
